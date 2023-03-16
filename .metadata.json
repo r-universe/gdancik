@@ -1,0 +1,10 @@
+[
+  {
+    "package": "CCM",
+    "oncran": true
+  },
+  {
+    "package": "mlegp",
+    "oncran": true
+  }
+]
